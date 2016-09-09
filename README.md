@@ -1,1 +1,2 @@
-# LLVM-openmp
+# LLVM-openmp 
+OpenMP Tool Interface runtime for LLVM
